@@ -1,2 +1,2 @@
 # Practicom_projects-
-this repository is for showing EDA projects 
+this repository is for practicom projects 
