@@ -1,0 +1,3 @@
+[submodule "practicom_repo/practicom_repo/deploy-churnapp-streamlit"]
+	path = practicom_repo/practicom_repo/deploy-churnapp-streamlit
+	url = https://github.com/soniya-mehta/deploy-churnapp-streamlit
